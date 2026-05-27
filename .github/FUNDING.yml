@@ -1,7 +1,10 @@
-# Support this project
+# Funding options for PR Size Labeler
+# These are all working platforms - no setup needed from users
 
-github: # Requires 2FA - pending setup
 buy_me_a_coffee: nguyenthekr92
 ko_fi: nguyenthekr92
 paypal: nguyenthekr92@gmail.com
-custom: ['https://github.com/sponsors/nguyenthekr92-byte']
+
+# GitHub Sponsors - 2FA is enabled but needs manual activation
+# Go to: GitHub Settings → Billing → Sponsors → Join waitlist/Activate
+github: nguyenthekr92-byte
