@@ -4,6 +4,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/nguyenthekr92-byte/pr-size-labeler)](https://github.com/nguyenthekr92-byte/pr-size-labeler/releases)
 [![Marketplace](https://img.shields.io/badge/GitHub-Marketplace-brightgreen)](https://github.com/marketplace/actions/pr-size-labeler)
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4%EF%B8%8F-ff69b4)](https://github.com/sponsors/nguyenthekr92-byte)
 
 ---
 
@@ -59,6 +60,20 @@ jobs:
 
 When `prefix` is empty (default), labels are: `XS`, `S`, `M`, `L`, `XL`.  
 With `prefix: 'size/'`, labels become: `size/xs`, `size/s`, `size/m`, `size/l`, `size/xl`.
+
+## 💖 Sponsor & Pro Features
+
+This action is free and open source (MIT). If it saves you time, consider supporting development:
+
+**Sponsorship unlocks Pro-only features:**
+- 🏷️ **Custom label colors** — set per-size colors in your config
+- 📊 **PR summary comment** — auto-post a comment with change breakdown
+- 🔔 **Slack/Discord notifications** — notify your team on XL PRs
+- ⚡ **Priority support** — direct help via GitHub Issues
+
+👉 **[Become a sponsor](https://github.com/sponsors/nguyenthekr92-byte)** to unlock these features and support continued development.
+
+No-sponsor users continue to get the full core functionality forever.
 
 ## 📄 License
 
