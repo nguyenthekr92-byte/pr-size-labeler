@@ -1,16 +1,7 @@
-# These are supported funding model platforms
+# Support this project
 
-# GitHub Sponsors (requires 2FA and profile setup - pending)
-github: # Replace with your GitHub username when Sponsors is approved
-
-# Buy Me a Coffee (instant setup at buymeacoffee.com)
-# buy_me_a_coffee: your_username
-
-# Ko-fi (instant setup at ko-fi.com)
-# ko_fi: your_username
-
-# PayPal (works immediately)
-# paypal: your_email@example.com
-
-# Custom link (can point to any donation page)
-# custom: ['https://your-donation-page.com']
+github: # Requires 2FA - pending setup
+buy_me_a_coffee: nguyenthekr92
+ko_fi: nguyenthekr92
+paypal: nguyenthekr92@gmail.com
+custom: ['https://github.com/sponsors/nguyenthekr92-byte']
